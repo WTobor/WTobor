@@ -1,8 +1,8 @@
-# [![weronika mularczyk header](https://raw.githubusercontent.com/WTobor/WTobor/master/imgs/Programmer-Girl background.jpg)](https://programmer-girl.com)
-
 # Programmer-girl Weronika Mularczyk
 
 ### Fullstack .NET Developer & Microsoft MVP
+
+# [![header](https://github.com/WTobor/WTobor/blob/master/imgs/Programmer-Girl%20background.jpg)](https://programmer-girl.com)
 
 ### www.programmer-girl.com | www.devadventcalendar.pl | www.kursazuredevops.pl | www.wrocnet.org
 
