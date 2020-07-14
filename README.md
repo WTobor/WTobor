@@ -2,7 +2,7 @@
 
 ### Fullstack .NET Developer & Microsoft MVP
 
-# [![header](https://github.com/WTobor/WTobor/blob/master/imgs/Programmer-Girl%20background.jpg)](https://programmer-girl.com)
+# [![header](https://github.com/WTobor/WTobor/blob/master/imgs/Programmer-Girl_background.jpg)](https://programmer-girl.com)
 
 ### www.programmer-girl.com | www.devadventcalendar.pl | www.kursazuredevops.pl | www.wrocnet.org
 
