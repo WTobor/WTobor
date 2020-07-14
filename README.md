@@ -1,15 +1,16 @@
 
 <h1 align="center">Programmer-girl Weronika Mularczyk</h1>
 <h2 align="center">Fullstack .NET Developer & Microsoft MVP</h2>
+<p align="center">
+  <a href="https://twitter.com/_programmergirl"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_twitter-32.png" alt="twitter"></a>
+  <a href="https://www.facebook.com/programmergirlblog/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="facebook"></a>
+  <a href="https://www.linkedin.com/in/weronika-tobor/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
+  <a href="https://programmer-girl.com/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="blog"></a>
+</p>
 
 # [![header](https://github.com/WTobor/WTobor/blob/master/imgs/Programmer-Girl_background.jpg)](https://programmer-girl.com)
 
-### www.programmer-girl.com | www.devadventcalendar.pl | www.kursazuredevops.pl | www.wrocnet.org
-
-[![Twitter Badge](https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_twitter-32.png)](https://twitter.com/_programmergirl)
-[![Facebook Badge](https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png)](https://www.facebook.com/programmergirlblog/)
-[![LinkedIn Badge](https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png)](https://www.linkedin.com/in/weronika-tobor/)
-[![Wordpress Badge](https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png)](https://programmer-girl.com/)
+### www.programmer-girl.com :star: www.devadventcalendar.pl :star: www.kursazuredevops.pl :star: www.wrocnet.org
 
 I am a FullStack developer who knows Frontend, Backend and DevOps. After work, I run the programming blog https://programmer-girl.com/, co-organize the Wroclaw .NET User Group http://www.wrocnet.org/, and run the opensource project www.devadventcalendar.pl. Outside the IT world, I focus on my hobbies: board games :game_die: and escape rooms :running_woman:.
 
