@@ -10,7 +10,7 @@
 
 # [![header](https://github.com/WTobor/WTobor/blob/master/imgs/Programmer-Girl_background.jpg)](https://programmer-girl.com)
 
-### www.programmer-girl.com :star: www.devadventcalendar.pl :star: www.kursazuredevops.pl :star: www.wrocnet.org
+### programmer-girl.com :star: devadventcalendar.pl :star: kursazuredevops.pl :star: wrocnet.org
 
 I am a FullStack developer who knows Frontend, Backend and DevOps. After work, I run the programming blog https://programmer-girl.com/, co-organize the Wroclaw .NET User Group http://www.wrocnet.org/, and run the opensource project www.devadventcalendar.pl. Outside the IT world, I focus on my hobbies: board games :game_die: and escape rooms :running_woman:.
 
