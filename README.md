@@ -15,6 +15,7 @@
 I am a FullStack developer who knows Frontend, Backend and DevOps. After work, I run the programming blog https://programmer-girl.com/, co-organize the Wroclaw .NET User Group http://www.wrocnet.org/, and run the opensource project www.devadventcalendar.pl. Outside the IT world, I focus on my hobbies: board games :game_die: and escape rooms :running_woman:.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WTobor&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WTobor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### DevAdventCalendar :santa:
 
