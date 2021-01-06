@@ -6,9 +6,8 @@
   <a href="https://www.facebook.com/programmergirlblog/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="facebook"></a>
   <a href="https://www.linkedin.com/in/weronika-tobor/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
   <a href="https://programmer-girl.com/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="blog"></a>
+  <a href="https://ko-fi.com/Z8Z135JNB"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"><img src="https://www.ko-fi.com/img/loadingheart.svg"></a>
 </p>
-
-# [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z135JNB) <img src="https://www.ko-fi.com/img/loadingheart.svg" alt="ko-fi">
 
 # [![header](https://github.com/WTobor/WTobor/blob/master/imgs/Programmer-Girl_background.jpg)](https://programmer-girl.com)
 
