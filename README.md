@@ -7,8 +7,13 @@
   <a href="https://www.linkedin.com/in/weronika-tobor/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
   <a href="https://programmer-girl.com/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="blog"></a>
 </p>
+<p align="center">
+  Support me on Ko-fi <a href="https://ko-fi.com/Z8Z135JNB"><img src="https://www.ko-fi.com/img/loadingheart.svg" alt="ko-fi"></a>
+</p>
 
 # [![header](https://github.com/WTobor/WTobor/blob/master/imgs/Programmer-Girl_background.jpg)](https://programmer-girl.com)
+
+# [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z135JNB)
 
 ### :star: [programmer-girl.com](https://www.programmer-girl.com) :star: [devadventcalendar.pl](https://www.devadventcalendar.pl) :star: [kursazuredevops.pl](https://www.kursazuredevops.pl) :star: [wrocnet.org](http://www.wrocnet.org) :star:
 
