@@ -12,7 +12,7 @@
 
 # [![header](https://github.com/WTobor/WTobor/blob/master/imgs/Programmer-Girl_background.jpg)](https://programmer-girl.com)
 
-### :star: [programmer-girl.com](https://www.programmer-girl.com) :star: [kursazuredevops.pl](https://www.kursazuredevops.pl) :star: [devadventcalendar.pl](https://www.devadventcalendar.pl) :star: [wrocnet.org](http://www.wrocnet.org) :star: [twf.community](http://www.twf.community) :star:
+### [programmer-girl.com](https://www.programmer-girl.com) :star: [kursazuredevops.pl](https://www.kursazuredevops.pl) :star: [devadventcalendar.pl](https://www.devadventcalendar.pl) :star: [wrocnet.org](http://www.wrocnet.org) :star: [twf.community](http://www.twf.community)
 
 I am a Senior Consultant/Architect with experience in Frontend, Backend (.NET) and DevOps. I also acted as a Scrum Master. After work I run a programming blog www.programmer-girl.com (PL) and co-organize meetups: Wroclaw .NET User Group www.wrocnet.org (PL) and TWF meetup (EN). Besides that I have created Azure DevOps course www.kursazuredevops.pl. Since 2020 I have been recognized as Microsoft MVP. I like to share my knowledge on meetups and conferences (full list available https://programmer-girl.com/wystapienia/). Outside the IT world, I focus on my hobbies: board games and escape rooms. :running_woman:.
 
